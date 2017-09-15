@@ -15,8 +15,7 @@ export default class Menu extends Component {
         <View style={styles.div1}>
             <View style={styles.items}>
                 <Image style={styles.img}
-                  source={require('./../../images/icons/search_2.png')}
-                />
+                  source={require('./../../images/icons/search_2.png')}/>
                 <Text style={{fontSize: 20,textAlign: 'center', color: '#f2b334' }}>
                       Search
                   </Text>
